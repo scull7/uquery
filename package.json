@@ -17,7 +17,7 @@
   	"merge",
   	"uquery"
   ],
-  "main": "./lib/uquery.js",
+  "main": "./lib/uquery",
   "directories": {
   	"lib": "./lib"
   },
