@@ -22,7 +22,7 @@
   	"lib": "./lib"
   },
   "engines": {
-    "node": "~0.4.12"
+    "node": ">=0.4.12"
   },
   "dependencies": {
   	"underscore": "1.2.1",
